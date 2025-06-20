@@ -27,7 +27,7 @@ const Hero = () => {
         </p>
 
         {/* Buttons */}
-        <div className="flex sm:flex-col gap-4 mt-12">
+        <div className="flex md:flex-row flex-col gap-4 mt-12">
           <a
             className="border border-[#2a2a2a] py-2 sm:py-2 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a]"
             href="#"
