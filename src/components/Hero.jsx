@@ -29,13 +29,13 @@ const Hero = () => {
         {/* Buttons */}
         <div className="flex gap-4 mt-12">
           <a
-            className="border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a]"
+            className="border border-[#2a2a2a] py-2 sm:py-2 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a]"
             href="#"
           >
             Documentation <i class="bx bx-link-external"></i>
           </a>
           <a
-            className="border border-[#2a2a2a] py-2 sm:py-3 px-8 sm:px-10 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a] bg-gray-300 text-black hover:text-white"
+            className="border border-[#2a2a2a] py-2 sm:py-2 px-8 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a] bg-gray-300 text-black hover:text-white"
             href="#"
           >
             GetStarted <i class="bx bx-link-external"></i>
